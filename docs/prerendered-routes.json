@@ -1,9 +1,0 @@
-{
-  "routes": {
-    "/angular-portfolio-bootstrap": {},
-    "/angular-portfolio-bootstrap/about": {},
-    "/angular-portfolio-bootstrap/contact": {},
-    "/angular-portfolio-bootstrap/home": {},
-    "/angular-portfolio-bootstrap/projects": {}
-  }
-}
